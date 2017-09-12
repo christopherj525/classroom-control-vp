@@ -44,5 +44,5 @@ node default {
   #   class { 'my_class': }
   include role::classroom
 
-  notify { 'Some text to check': }
+  notify { 'AAAAAAAAAAA': }
 }
