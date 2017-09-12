@@ -44,4 +44,4 @@ node default {
   #   class { 'my_class': }
   include role::classroom
   }
-notify {'Hello!! Puppet is awesome'}
+notify {"Hello!! Puppet is awesome"}
